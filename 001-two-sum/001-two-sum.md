@@ -1,4 +1,4 @@
-[Home](https://github.com/albertopformoso/go-leetcode) | [Next](https://github.com/albertopformoso/go-leetcode/002-add-two-numbers)
+[Home](https://github.com/albertopformoso/go-leetcode) | [Next](https://github.com/albertopformoso/go-leetcode/blob/main/002-add-two-numbers/002-add-two-numbers.md)
 
 # Two Sum
 
