@@ -23,7 +23,6 @@ func myAtoi(s string) (out int) {
 	}
 
 	for ; i<len(s); i++ {
-
 		if sign*out >= math.MaxInt32 { return math.MaxInt32 }
 		if sign*out <= math.MinInt32 { return math.MinInt32 }
 
