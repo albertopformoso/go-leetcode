@@ -1,4 +1,4 @@
-[Previous](https://github.com/albertopformoso/go-leetcode/blob/main/004-median-of-two-sorted-arrays/004-median-of-two-sorted-arrays.md) | [Home](https://github.com/albertopformoso/go-leetcode) | [Next]()
+[Previous](https://github.com/albertopformoso/go-leetcode/blob/main/004-median-of-two-sorted-arrays/004-median-of-two-sorted-arrays.md) | [Home](https://github.com/albertopformoso/go-leetcode) | [Next](https://github.com/albertopformoso/go-leetcode/blob/main/008-string-to-integer-(atoi)/008-string-to-integer-(atoi).md)
 
 # Reverse Integer
 
