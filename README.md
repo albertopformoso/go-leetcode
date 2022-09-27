@@ -13,6 +13,8 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/004-median-of-two-sorted-arrays/004-median-of-two-sorted-arrays.md)
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | []()
 | 006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | []()
-| 007 | [Reverse Integer]() | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/007-reverse-integer/007-reverse-integer.md)
-| 008 | [String to Integer (atoi)]() | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/008-string-to-integer-(atoi)/008-string-to-integer-(atoi).md)
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/007-reverse-integer/007-reverse-integer.md)
+| 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/008-string-to-integer-(atoi)/008-string-to-integer-(atoi).md)
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/009-palindrome-number/009-palindrome-number.md)
+| 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/010-regular-expression-matching/010-regular-expression-matching.md)
 
