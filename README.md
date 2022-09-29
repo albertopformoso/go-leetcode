@@ -19,4 +19,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/010-regular-expression-matching/010-regular-expression-matching.md)
 | 011 | [Regular Expression Matching](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/011-container-with-most-water/011-container-with-most-water.md)
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/012-integer-to-roman/012-integer-to-roman.md)
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/013-roman-to-integer/013-roman-to-integer.md)
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/014-longest-common-prefix/014-longest-common-prefix.md)
 
