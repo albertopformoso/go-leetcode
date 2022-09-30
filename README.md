@@ -21,4 +21,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/012-integer-to-roman/012-integer-to-roman.md)
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/013-roman-to-integer/013-roman-to-integer.md)
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/014-longest-common-prefix/014-longest-common-prefix.md)
+| 015 | [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/015-3sum/015-3sum.md) |
+| 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/016-3sum-closest/016-3sum-closest.md) |
 
