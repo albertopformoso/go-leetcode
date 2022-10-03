@@ -23,4 +23,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/014-longest-common-prefix/014-longest-common-prefix.md)
 | 015 | [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/015-3sum/015-3sum.md) |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/016-3sum-closest/016-3sum-closest.md) |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/017-letter-combinations-of-a-phone-number/017-letter-combinations-of-a-phone-number.md) |
+| 018 | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/018-4sum/018-4sum.md) |
 
