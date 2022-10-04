@@ -11,8 +11,8 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/002-add-two-numbers/002-add-two-numbers.md)
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/003-longest-substring-without-repeating-characters/003-longest-substring-without-repeating-characters.md)
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/004-median-of-two-sorted-arrays/004-median-of-two-sorted-arrays.md)
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | []()
-| 006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | []()
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/005-longest-palindromic-substring/005-longest-palindromic-substring.md)
+| 006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/006-zigzag-conversion/006-zigzag-conversion.md)
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/007-reverse-integer/007-reverse-integer.md)
 | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/008-string-to-integer-(atoi)/008-string-to-integer-(atoi).md)
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/009-palindrome-number/009-palindrome-number.md)
@@ -25,4 +25,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/016-3sum-closest/016-3sum-closest.md) |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/017-letter-combinations-of-a-phone-number/017-letter-combinations-of-a-phone-number.md) |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/018-4sum/018-4sum.md) |
+| 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/019-remove-nth-node-from-end-of-list/019-remove-nth-node-from-end-of-list.md) |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/020-valid-parentheses/020-valid-parentheses.md) |
 
