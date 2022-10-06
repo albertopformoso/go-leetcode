@@ -27,4 +27,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 018 | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/018-4sum/018-4sum.md) |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/019-remove-nth-node-from-end-of-list/019-remove-nth-node-from-end-of-list.md) |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/020-valid-parentheses/020-valid-parentheses.md) |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/021-merge-two-sorted-lists/021-merge-two-sorted-lists.md) |
+| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/022-generate-parentheses/022-generate-parentheses.md) |
 
