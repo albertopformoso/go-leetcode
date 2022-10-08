@@ -1,4 +1,4 @@
-[Previous](https://github.com/albertopformoso/go-leetcode/blob/main/021-merge-two-sorted-lists/021-merge-two-sorted-lists.md) | [Home](https://github.com/albertopformoso/go-leetcode) | [Next]()
+[Previous](https://github.com/albertopformoso/go-leetcode/blob/main/021-merge-two-sorted-lists/021-merge-two-sorted-lists.md) | [Home](https://github.com/albertopformoso/go-leetcode) | [Next](https://github.com/albertopformoso/go-leetcode/blob/main/023-merge-k-sorted-lists/023-merge-k-sorted-lists.md)
 
 # Generate Parentheses
 
