@@ -29,4 +29,6 @@ This repository contains the solutions for the Top 50 Amazon Questions from [lee
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/020-valid-parentheses/020-valid-parentheses.md) |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/021-merge-two-sorted-lists/021-merge-two-sorted-lists.md) |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/022-generate-parentheses/022-generate-parentheses.md) |
+| 023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/023-merge-k-sorted-lists/023-merge-k-sorted-lists.md) |
+| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Link](https://github.com/albertopformoso/go-leetcode/blob/main/024-swap-nodes-in-pairs/024-swap-nodes-in-pairs.md) |
 
